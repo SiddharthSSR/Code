@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+# Welcome to The World of Programming
 
-You can use the [editor on GitHub](https://github.com/SiddharthSSR/Learning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction 
+Hello, I am Siddharth Singh, I am currently studying in class 11th in Scottish High International School in Gurgaon, India.
+My interest in computers was from starting, so I took Computer Science in 10th class. In early days, I was very happy studying it but as soon as we got deeper into the subject and our school started taking exams, I got really frustrated and also scored very less marks(36/100). But one day(13th March, 2017), I had my Chemistry exam the next day but I was on Youtube watching videos. Suddenly a video came abut making Snakes Game by Daniel Shiffmann. When I watched the video, I was really fascinated by hias way of teaching and I started learning programming from him. This started increasing my interest in the subject. Even my marks started increasing from (36/100) to (89/100) which was a huge leap. I started learning other languages too. I started watching more coding videos. 
+Now my favourite Youtubers are as follows:
+Daniel Shiffmann(Javascript, Java)
+Siraj Raval(Machine Learning)
+Brian Voong(IOS Development)
+And Many More
 
 ### Markdown
 
